@@ -19,7 +19,7 @@ const products = [
     name: "Gargantilha Trevo Perola",
     price: "R$ 49,90",
     category: "cordao",
-    image: "/assets/cordao trevo perola.jpg",
+    image: "/assets/garg.trev.perola.jpg",
     description: "Gargantilha Trevo Perola"
   },
   {
@@ -33,7 +33,7 @@ const products = [
     name: "Cordão com Pingente de Coração",
     price: "R$ 23,98",
     category: "cordao",
-    image: "/assets/corda c pingente de coracao.jpeg",
+    image: "/assets/cordao c pingente de coracao.jpeg",
     description: "Cordão com Pingente de Coração"
   },
   {
@@ -75,7 +75,7 @@ const products = [
     name: "Cordão Trevo Branco (Banho de Prata)",
     price: "R$ 34,98",
     category: "cordao",
-    image: "/assets/cordao rata trevo branco.jpeg",
+    image: "/assets/cordao prata trevo branco.jpeg",
     description: "Cordão Trevo Branco (Banho de Prata)"
   },
 
@@ -91,7 +91,7 @@ const products = [
     name: "Cordão com Trevo",
     price: "R$ 36,98",
     category: "cordao",
-    image: "/assets/cordao (1).jpeg",
+    image: "/assets/cordao (11).jpeg",
     description: "Cordão"
   },
 
@@ -107,7 +107,7 @@ const products = [
     name: "Cordão Com Argolinhas",
     price: "R$ 36,98",
     category: "cordao",
-    image: "/assets/cordao (2).jpeg",
+    image: "/assets/cordao (12).jpeg",
     description: "Cordão"
   },
 
@@ -115,7 +115,7 @@ const products = [
     name: "Cordão Três Trevos",
     price: "R$ 39,98",
     category: "cordao",
-    image: "/assets/cordao (4).jpeg",
+    image: "/assets/cordao (14).jpeg",
     description: "Cordão"
   },
 
@@ -123,7 +123,7 @@ const products = [
     name: "Cordão com Coração",
     price: "R$ 39,98",
     category: "cordao",
-    image: "/assets/cordao (5).jpeg",
+    image: "/assets/cordao (15).jpeg",
     description: "Cordão"
   },
 
@@ -131,7 +131,7 @@ const products = [
     name: "Cordão",
     price: "R$ 44,98",
     category: "cordao",
-    image: "/assets/cordao (7).jpeg",
+    image: "/assets/cordao (17).jpeg",
     description: "Cordão"
   },
 
@@ -139,7 +139,7 @@ const products = [
     name: "Cordão",
     price: "R$ 29,98",
     category: "cordao",
-    image: "/assets/cordao (9).jpeg",
+    image: "/assets/cordao (19).jpeg",
     description: "Cordão"
   },
 
@@ -147,7 +147,7 @@ const products = [
     name: "Cordão Borboleta",
     price: "R$ 27,98",
     category: "cordao",
-    image: "/assets/pulseira borboleta (2).jpeg",
+    image: "/assets/pulseira borboleta (5).jpeg",
     description: "Cordão"
   },
 
@@ -220,21 +220,21 @@ const products = [
     name: "Brinco Folhas Tropicais",
     price: "R$ 29,98",
     category: "brinco",
-    image: "/assets/brinco f o folhas tropicais.jpeg",
+    image: "/assets/brinco f. o. folhas tropicais.jpeg",
     description: "Brinco Folhas Tropicais"
   },
   {
     name: "Brinco Folhas com Pedras",
     price: "R$ 19,98",
     category: "brinco",
-    image: "/assets/brinco f o folhas com pedras .jpeg",
+    image: "/assets/brinco f.o Folhas com Pedras Preta.jpeg",
     description: "Brinco Folhas com Pedras"
   },
   {
     name: "Brinco Flores Tropicais com Pedras",
     price: "R$ 19,98",
     category: "brinco",
-    image: "/assets/brincos f ouro flores tropicais com pedras.jpeg",
+    image: "/assets/brincos f.ouro flores tropicais com pedras.jpeg",
     description: "Brinco Flores Tropicais com Pedras"
   },
   {
@@ -248,7 +248,7 @@ const products = [
     name: "Brinco Minimalista",
     price: "R$ 19,98",
     category: "brinco",
-    image: "/assets/brinco f o  minimalista.jpeg",
+    image: "/assets/brinco f.o minimalista.jpeg",
     description: "Brinco Minimalista"
   },
 {  
@@ -295,7 +295,7 @@ const products = [
     name: "Brinco Banho de Prata",
     price: "R$ 23,98",
     category: "brinco",
-    image: "/assets/pulseira borboleta (4).jpeg",
+    image: "/assets/pulseira borboleta (7).jpeg",
     description: "Brinco"
   },
 
@@ -311,7 +311,7 @@ const products = [
     name: "Brinco Folheado Ouro",
     price: "R$ 34,98",
     category: "brinco",
-    image: "/assets/brinco f o  minimalista noite 2.jpeg",
+    image: "/assets/brinco f.o minimalista noite 2.jpeg",
     description: "Brinco"
   },
 
@@ -319,7 +319,7 @@ const products = [
     name: "Brinco",
     price: "R$ 35,98",
     category: "brinco",
-    image: "/assets/brinco f o  minimalista noite.jpeg",
+    image: "/assets/brinco f.o minimalista noite.jpeg",
     description: "Brinco"
   },
 
@@ -327,7 +327,7 @@ const products = [
     name: "Brinco",
     price: "R$ 35,98",
     category: "brinco",
-    image: "/assets/pulseira borboleta (3).jpeg",
+    image: "/assets/pulseira borboleta (6).jpeg",
     description: "Brinco"
   },
 
@@ -409,7 +409,7 @@ const products = [
     name: "Pulseira com Pérola",
     price: "R$19,98",
     category: "pulseira",
-    image: "/assets/WhatsApp Image 2025-11-24 at 11.37.11 (1).jpeg",
+    image: "/assets/pulseira de bolinhas.jpeg",
     description: "Pulseira"
   },
 
@@ -417,7 +417,7 @@ const products = [
     name: "Pulseira com Coração",
     price: "R$23,98",
     category: "pulseira",
-    image: "/assets/WhatsApp Image 2025-11-24 at 11.37.11.jpeg",
+    image: "/assets/pulseira de coracao.jpeg",
     description: "Pulseira"
   },
 
